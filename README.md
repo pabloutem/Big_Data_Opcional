@@ -41,15 +41,16 @@ Por último, el coeficiente más grande es el "Tiempo en el celular" después vi
 
 *Pregunta 5
 
-Df Sum Sq Mean Sq F value Pr(>F)
-Datos$Ansiedad 1 1813 1813 3.894 0.050756 .
-Datos$Compulsividad 1 9368 9368 20.127 1.67e-05 
-Datos$Estrés 1 6699 6699 14.392 0.000234
-Datos$Habilidades blandas 1 421 421 0.905 0.343372
-Datos$Resolución de conflictos 1 1 1 0.003 0.956904
-Datos$Tiempo de uso del celular 1 23935 23935 51.423 6.63e-11
-Datos$Género 1 106 106 0.227 0.634662
-Datos$Edad 1 17 17 0.036 0.849150
+Df                              Sum   Sq    Mean  Sq      F value Pr(>F)
+Datos$Ansiedad                  1     1813  1813  3.894   0.050756 .
+Datos$Compulsividad             1     9368  9368  20.127  1.67e-05 
+Datos$Estrés                    1     6699  6699  14.392  0.000234
+Datos$Habilidades blandas       1     421   421   0.905   0.343372
+Datos$Resolución de conflictos  1     1     1     0.003   0.956904
+Datos$Tiempo de uso del celular 1     23935 23935 51.423  6.63e-11
+Datos$Género                    1     106   106   0.227   0.634662
+Datos$Edad                      1     17    17    0.036   0.849150
+
 Residuals 120 55855 465
 Signif. codes: 0 '' 0.001 '' 0.01 '' 0.05 '.' 0.1 ' ' 1 
 
